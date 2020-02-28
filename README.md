@@ -1,5 +1,13 @@
-# Creative Kit
 
+/CreativeKitSample/Assets.xcassets/snaptiverlogo.imageset/snaptiverlogo@1x.png
+
+[logo]: /CreativeKitSample/Assets.xcassets/snaptiverlogo.imageset/snaptiverlogo@1x.png "snaptiver logo"
+
+![alt text][logo]
+
+# Snaptiver
+
+iOS app made during HackDelft 2019. It uses an UDP connection to get stock prices from a locally hosted Optiver Server. These stock prices can be sent via captions in Snapchat using Snap Creative kit. The iOS app won the "Best Use of Snapchat Kit" at HackDelft 2019 and is posted on [devpost](https://devpost.com/software/optiver-challenge)
 Creative Kit sample code for iOS.
 
 ## App Registration
