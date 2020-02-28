@@ -1,6 +1,4 @@
 
-/CreativeKitSample/Assets.xcassets/snaptiverlogo.imageset/snaptiverlogo@1x.png
-
 [logo]: /CreativeKitSample/Assets.xcassets/snaptiverlogo.imageset/snaptiverlogo@1x.png "snaptiver logo"
 
 ![alt text][logo]
